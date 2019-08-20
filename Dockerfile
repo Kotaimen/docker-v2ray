@@ -1,6 +1,6 @@
-FROM alpine:3.9
+FROM alpine:3.10
 
-ENV VERSION 4.18.2
+ENV VERSION 4.20.0
 
 WORKDIR /usr/local/bin
 
